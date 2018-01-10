@@ -1,13 +1,10 @@
-# gatsby-starter-default
-The default Gatsby starter
+# Lotería Phuket
+Built with Gatsby. The site is hosted at [https://loteria-phuket.now.sh/](https://loteria-phuket.now.sh/).
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/)
+This is an experimental site I built while learning my way around [Gatsby](https://github.com/gatsbyjs) and React. It's basically a set of Lotería cards depicting some of the more common elements of life in Phuket, Thailand.
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-```
-gatsby new gatsby-example-site
-```
+Aside from learning Gatsby it was a good opportunty to explore rendering data using the CSS grid in combination with Flexbox, which is something interesting to work on. Any suggestions for additional cards are welcome.
 
-## Deploy
+Inspired by the work [Lynn Fisher](https://lynnandtonic.com/web/) has done.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+
