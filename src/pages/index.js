@@ -1,7 +1,6 @@
 import React from "react"
 import g from "glamorous"
 import Link from "gatsby-link"
-import { withPrefix } from 'gatsby-link'
 import objectFitImages from 'object-fit-images'
 
 
@@ -15,7 +14,7 @@ export default ({ data }) => {
         	<div className={styles.dataContent} style={{backgroundColor:`${node.frontmatter.color}` }}>
         		<div className={styles.cellTitle}>
 							<span className={styles.cellNumber}>{node.frontmatter.index}</span>
-							<span className={styles.cellName}>Phuket</span>
+							<span className={styles.cellName} style={{backgroundImage: "url(img/rescue.svg)"}}>&nbsp;</span>
         		</div>
         		<div className={styles.cellImage} style={{backgroundImage: `url(img/${node.frontmatter.image})`}}>
               &nbsp;

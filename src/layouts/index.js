@@ -23,7 +23,7 @@ const Header = () => (
 const Footer = () => (
   <footer>
     <div className={styles.footerContent}>
-      &copy;2018-PineConeCreative-Build Something You Love
+      &copy;2018-PineCone Creative<br/>Build Something You Love
     </div>
   </footer>
 )

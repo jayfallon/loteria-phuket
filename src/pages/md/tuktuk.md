@@ -1,10 +1,10 @@
 ---
 title: tuk tuk
-subtitle: ไก่ชน
+subtitle: ตุ๊ก ๆ
 date: "2018-01-08"
 index: 26
 color: "#bbd8d4"
-
+image: tuktuk.png
 ---
 
 Cockfighting is alive and well on the island of Phuket. Gamecocks are a proud yet deadly flock of birds who usually engage in feats of strength during a drinking session, meant to impress themselves and their friends, before engaging in a wild flurry of blows, hacks and kicks against an unlucky opponent who may have offended their sensibilities.

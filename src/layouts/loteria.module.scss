@@ -28,7 +28,7 @@ header {
 			font-family: 'Fjalla One', sans-serif;
 			font-size: 1.4rem;
 			text-transform: uppercase;
-			text-shadow: 1px 1px 2px #1B96BE;
+			text-shadow: 1px 1px 2px #1888B2;
 			flex: 1 0 auto;
 
 			a {
@@ -59,6 +59,8 @@ main {
 
 footer {
 	border-top: 1px solid #FFD316;
+	display: flex;
+	justify-content: center;
 
 	.footerContent{
 		padding: 24px;
@@ -67,5 +69,6 @@ footer {
 		font-size: .75rem;
 		text-transform: uppercase;
 		text-shadow: 1px 1px 1px #000;
+		text-align: center;
 	}
 }
