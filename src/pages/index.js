@@ -17,8 +17,8 @@ export default ({ data }) => {
 							<span className={styles.cellNumber}>{node.frontmatter.index}</span>
 							<span className={styles.cellName}>Phuket</span>
         		</div>
-        		<div className={styles.cellImage}>
-              <img src={node.frontmatter.image} alt={node.frontmatter.title}/>
+        		<div className={styles.cellImage} style={{backgroundImage: `url(img/${node.frontmatter.image})`}}>
+              &nbsp;
         		</div>
 		        <Link to={node.fields.slug}>
 		        	<h3>{node.frontmatter.title}</h3>

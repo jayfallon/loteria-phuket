@@ -1,6 +1,6 @@
 ---
-title: Little Demon
-subtitle: ไก่ชน
+title: The Demon
+subtitle: ปีศาจ
 date: "2018-01-08"
 index: 2
 color: "#f6f6e0"

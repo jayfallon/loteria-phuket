@@ -4,7 +4,7 @@ subtitle: ไก่ชน
 date: "2018-01-08"
 index: 51
 color: "#bbd8d4"
-
+image: bumgun.png
 ---
 
 Cockfighting is alive and well on the island of Phuket. Gamecocks are a proud yet deadly flock of birds who usually engage in feats of strength during a drinking session, meant to impress themselves and their friends, before engaging in a wild flurry of blows, hacks and kicks against an unlucky opponent who may have offended their sensibilities.
