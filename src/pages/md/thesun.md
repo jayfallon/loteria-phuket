@@ -1,10 +1,10 @@
 ---
 title: the sun
-subtitle: ไก่ชน
+subtitle: ดวงอาทิตย์
 date: "2018-01-09"
 index: 46
-color: "#E38EB0"
-
+color: "#8EBECE"
+image: thesun.svg
 ---
 
 

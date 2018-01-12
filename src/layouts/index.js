@@ -14,8 +14,6 @@ const Header = () => (
           Loteria Phuket
         </Link>
       </h1>
-      <label htmlFor="search">Search for Loteria cards</label>
-      <input id="search" type="text" placeholder="Search for Loteria Cards"/>
     </div>
   </header>
 )

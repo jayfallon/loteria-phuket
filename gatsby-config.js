@@ -1,11 +1,15 @@
 module.exports = {
   siteMetadata: {
     title: `Gatsby Default Starter`,
+    siteUrl: `https://loteria-phuket.now.sh/`
   },
   plugins: [
   		`gatsby-plugin-react-helmet`,
   		`gatsby-transformer-remark`,
   		`gatsby-plugin-glamor`,
+      {
+          resolve: `gatsby-plugin-sitemap`
+        },
   		{
         resolve: `gatsby-source-filesystem`,
         options: {
