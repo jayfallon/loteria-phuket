@@ -1,5 +1,5 @@
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
-version: v1.12.0
+version: v1.13.1
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
@@ -46,3 +46,6 @@ patch:
         patched: '2018-10-13T01:59:35.811Z'
     - gatsby > webpack-validator > joi > hoek:
         patched: '2018-10-13T01:59:35.811Z'
+  'npm:lodash:20180130':
+    - gatsby > webpack-configurator > lodash:
+        patched: '2018-12-03T23:30:45.196Z'
