@@ -1,5 +1,5 @@
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
-version: v1.12.0
+version: v1.13.3
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
@@ -46,3 +46,11 @@ patch:
         patched: '2018-10-13T01:59:35.811Z'
     - gatsby > webpack-validator > joi > hoek:
         patched: '2018-10-13T01:59:35.811Z'
+    - gatsby > gatsby-plugin-page-creator > chokidar > fsevents > node-pre-gyp > hawk > hoek:
+        patched: '2019-02-04T23:35:23.465Z'
+    - gatsby > gatsby-plugin-page-creator > chokidar > fsevents > node-pre-gyp > hawk > sntp > hoek:
+        patched: '2019-02-04T23:35:23.465Z'
+    - gatsby > gatsby-plugin-page-creator > chokidar > fsevents > node-pre-gyp > hawk > boom > hoek:
+        patched: '2019-02-04T23:35:23.465Z'
+    - gatsby > gatsby-plugin-page-creator > chokidar > fsevents > node-pre-gyp > hawk > cryptiles > boom > hoek:
+        patched: '2019-02-04T23:35:23.465Z'
