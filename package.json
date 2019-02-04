@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "Jay Fallon <jayfallon@gmail.com>",
   "dependencies": {
-    "gatsby": "^2.0.0",
+    "gatsby": "^2.0.84",
     "gatsby-link": "^1.6.32",
     "gatsby-plugin-glamor": "^1.6.10",
     "gatsby-plugin-react-helmet": "^1.0.8",
@@ -19,7 +19,7 @@
     "postcss": "^6.0.16",
     "postcss-cssnext": "^3.0.2",
     "rucksack-css": "^1.0.2",
-    "snyk": "^1.103.4"
+    "snyk": "^1.124.1"
   },
   "keywords": [
     "gatsby"
