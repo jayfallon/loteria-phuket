@@ -19,7 +19,7 @@
     "postcss": "^6.0.16",
     "postcss-cssnext": "^3.0.2",
     "rucksack-css": "^1.0.2",
-    "snyk": "^1.124.1"
+    "snyk": "^1.189.0"
   },
   "keywords": [
     "gatsby"
